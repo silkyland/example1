@@ -1,0 +1,25 @@
+:root {
+  --color-paper: #f0faf9;
+  --color-surface: #ffffff;
+  --color-ink: #12302e;
+  --color-brand: #0e7490;
+  --color-accent: #06b6d4;
+  --color-focus: #a5f3fc;
+}
+
+body{
+    background-color: var(--color-surface);
+    color: var(--color-ink);
+}
+
+h1,h2{
+    color: var(--color-ink)
+}
+
+p {
+    color: var(--color-ink)
+}
+
+.first-p {
+    color: rgb(0, 128, 255);
+}
